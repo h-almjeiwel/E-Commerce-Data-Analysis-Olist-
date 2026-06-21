@@ -1,1 +1,41 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyNW9/zt0l0oMX2/Jj8gNuXp"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":2,"metadata":{"colab":{"base_uri":"https://localhost:8080/"},"id":"6s0RP4drM2T7","executionInfo":{"status":"ok","timestamp":1782063384630,"user_tz":-180,"elapsed":29,"user":{"displayName":"Hessa Abdulaziz","userId":"10623313331434943285"}},"outputId":"53f0d491-6f86-4304-b8c5-8f87a192d30f"},"outputs":[{"output_type":"execute_result","data":{"text/plain":["[{'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_geolocation_dataset.csv',\n","  'p_sink_folder': 'geolocation',\n","  'p_sink_file': 'geolocation.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_order_items_dataset.csv',\n","  'p_sink_folder': 'order_items',\n","  'p_sink_file': 'order_items.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_order_payments_dataset.csv',\n","  'p_sink_folder': 'order_payments',\n","  'p_sink_file': 'order_payments.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_order_reviews_dataset.csv',\n","  'p_sink_folder': 'order_reviews',\n","  'p_sink_file': 'order_reviews.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_orders_dataset.csv',\n","  'p_sink_folder': 'orders',\n","  'p_sink_file': 'orders.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_products_dataset.csv',\n","  'p_sink_folder': 'products',\n","  'p_sink_file': 'products.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/olist_sellers_dataset.csv',\n","  'p_sink_folder': 'sellers',\n","  'p_sink_file': 'sellers.csv'},\n"," {'p_rel_url': 'datasets/download/olistbr/brazilian-e-commerce/product_category_name_translation.csv',\n","  'p_sink_folder': 'product_category_name_translation',\n","  'p_sink_file': 'product_category_name_translation.csv'}]"]},"metadata":{},"execution_count":2}],"source":["[\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_geolocation_dataset.csv\",\n","     \"p_sink_folder\":\"geolocation\",\n","     \"p_sink_file\":\"geolocation.csv\"\n","     }\n","    ,\n","     {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_order_items_dataset.csv\",\n","     \"p_sink_folder\":\"order_items\",\n","     \"p_sink_file\":\"order_items.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_order_payments_dataset.csv\",\n","     \"p_sink_folder\":\"order_payments\",\n","     \"p_sink_file\":\"order_payments.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_order_reviews_dataset.csv\",\n","     \"p_sink_folder\":\"order_reviews\",\n","     \"p_sink_file\":\"order_reviews.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_orders_dataset.csv\",\n","     \"p_sink_folder\":\"orders\",\n","     \"p_sink_file\":\"orders.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_products_dataset.csv\",\n","     \"p_sink_folder\":\"products\",\n","     \"p_sink_file\":\"products.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/olist_sellers_dataset.csv\",\n","     \"p_sink_folder\":\"sellers\",\n","     \"p_sink_file\":\"sellers.csv\"\n","     }\n","    ,\n","    {\"p_rel_url\":\"datasets/download/olistbr/brazilian-e-commerce/product_category_name_translation.csv\",\n","     \"p_sink_folder\":\"product_category_name_translation\",\n","     \"p_sink_file\":\"product_category_name_translation.csv\"\n","     }\n","]"]}]}
+[
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_geolocation_dataset.csv",
+     "p_sink_folder":"geolocation",
+     "p_sink_file":"geolocation.csv"
+     }
+    ,
+     {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_items_dataset.csv",
+     "p_sink_folder":"order_items",
+     "p_sink_file":"order_items.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_payments_dataset.csv",
+     "p_sink_folder":"order_payments",
+     "p_sink_file":"order_payments.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_reviews_dataset.csv",
+     "p_sink_folder":"order_reviews",
+     "p_sink_file":"order_reviews.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_orders_dataset.csv",
+     "p_sink_folder":"orders",
+     "p_sink_file":"orders.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_products_dataset.csv",
+     "p_sink_folder":"products",
+     "p_sink_file":"products.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_sellers_dataset.csv",
+     "p_sink_folder":"sellers",
+     "p_sink_file":"sellers.csv"
+     }
+    ,
+    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/product_category_name_translation.csv",
+     "p_sink_folder":"product_category_name_translation",
+     "p_sink_file":"product_category_name_translation.csv"
+     }
+]
