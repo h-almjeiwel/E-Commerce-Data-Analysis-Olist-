@@ -1,40 +1,40 @@
 [
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_geolocation_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_geolocation_dataset.csv",
      "p_sink_folder":"geolocation",
      "p_sink_file":"geolocation.csv"
      }
     ,
-     {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_items_dataset.csv",
+     {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_order_items_dataset.csv",
      "p_sink_folder":"order_items",
      "p_sink_file":"order_items.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_payments_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_order_payments_dataset.csv",
      "p_sink_folder":"order_payments",
      "p_sink_file":"order_payments.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_order_reviews_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_order_reviews_dataset.csv",
      "p_sink_folder":"order_reviews",
      "p_sink_file":"order_reviews.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_orders_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_orders_dataset.csv",
      "p_sink_folder":"orders",
      "p_sink_file":"orders.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_products_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_products_dataset.csv",
      "p_sink_folder":"products",
      "p_sink_file":"products.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/olist_sellers_dataset.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_sellers_dataset.csv",
      "p_sink_folder":"sellers",
      "p_sink_file":"sellers.csv"
      }
     ,
-    {"p_rel_url":"datasets/download/olistbr/brazilian-e-commerce/product_category_name_translation.csv",
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/product_category_name_translation.csv",
      "p_sink_folder":"product_category_name_translation",
      "p_sink_file":"product_category_name_translation.csv"
      }
