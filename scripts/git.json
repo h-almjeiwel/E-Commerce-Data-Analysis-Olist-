@@ -1,4 +1,9 @@
 [
+    {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_customers_dataset.csv",
+     "p_sink_folder":"customers",
+     "p_sink_file":"customers.csv"
+     }
+    ,
     {"p_rel_url":"h-almjeiwel/E-Commerce-Data-Analysis-Olist-/refs/heads/main/data/olist_geolocation_dataset.csv",
      "p_sink_folder":"geolocation",
      "p_sink_file":"geolocation.csv"
